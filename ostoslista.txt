@@ -3,7 +3,7 @@ munia
 kermaa
 jauhoja
 leipää
-hurr
+Tässä kohtaa on mergekonflikti
 durr
 lehmä
 hevonen
